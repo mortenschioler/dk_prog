@@ -15,7 +15,7 @@ Replace æ, ø, å with these special characters, and make `~` type out instantl
  `ø` | `]` 
  `Ø` | `}` 
  `å` | `\` 
- `Å` | `|` 
+ `Å` | vertical pipe
  `~` (accent) | `~` (character) 
 
 The reason that the mentioned keys are so out of the way in the Danish keyboard layout is that they had to yield for æ, ø, å. But since we don't need them for programming, why not add another keyboard layout that does just this, and nothing else?
