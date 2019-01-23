@@ -1,5 +1,5 @@
-# dk_prog
-## Minimal programming layout for Danes 
+# dk_prog: Danish Programmers
+## Minimal keyboard layout for Danish programmers
 ### The problem
 Special characters `[`, `]`, `{`, `}`, `\`, `~`, and `|` are often used in programming, and yet are notoriously strenuous to type on the Danish keyboard layout. 
 
@@ -18,7 +18,9 @@ Replace æ, ø, å with these special characters, and make `~` type out instantl
  `Å` | vertical pipe
  `~` (accent) | `~` (character) 
 
-The reason that the mentioned keys are so out of the way in the Danish keyboard layout is that they had to yield for æ, ø, å. But since we don't need them for programming, why not add another keyboard layout that does just this, and nothing else?
+The reason that the mentioned keys are so out of the way in the Danish keyboard layout is that they had to yield for æ, ø, å. But since we don't need them for programming, why not add another keyboard layout that makes this change, and no other? That is exactly what the dk_prog layout does. 
+
+The intention is that the user switches to this layout when programming, and then goes back to the normal one when needed.
 
 ### Installation
 Simply run the relevant MSI installer and restart your computer. On Windows 10, you can swap between layouts using `Win + Space`.
